@@ -11,7 +11,15 @@ In October 2019 **Sarah Robertson and Rob England** [reported](https://www.bbc.c
 
 ## Get the data
 
-* TBC
+* XLS: [Number of staff absent, number of days off - by service](https://github.com/BBC-Data-Unit/mental-health-emergency-services/blob/master/Data%20for%20English%20regions.xlsx)
+* [Police workforce, England and Wales](https://www.gov.uk/government/statistics/police-workforce-england-and-wales-31-march-2019 )
+Police: https://www.gov.uk/government/statistics/police-workforce-england-and-wales-31-march-2019 
+* Fire workforce data: [England](https://www.gov.uk/government/statistical-data-sets/fire-statistics-data-tables#workforce-and-workforce-diversity)
+* Fire workforce data: [Scotland](https://www.firescotland.gov.uk/media/1406472/sfrs_fso.xlsx)
+* Fire workforce data: [Wales](https://statswales.gov.wales/Catalogue/Community-Safety-and-Social-Inclusion/Community-Safety/Fire-Service-Operational-Statistics/fireandrescueservicesummaryinformation-by-asset-financialyear)
+* Ambulance workforce data: [England](https://files.digital.nhs.uk/9E/A9A425/NHS%20Workforce%20Statistics%2C%20March%202019%20England%20and%20Organisation.xlsx)
+* Ambulance workforce data: [Wales](https://statswales.gov.wales/Catalogue/Health-and-Social-Care/NHS-Staff/NHS-Staff-Summary/nhsstaff-by-staffgroup-year)
+* Ambulance workforce data: [Northern Ireland](https://www.health-ni.gov.uk/sites/default/files/publications/health/hscwb-key-facts-june-2019.pdf)
 
 ## Quotes and interviews
 
